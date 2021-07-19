@@ -7390,11 +7390,11 @@ message.member.voiceChannel
 client.login("ODAyOTAzODAxMDU2NzIyOTk0.YA2BEw.V293t8zqXgii5KBXOu2pWITkCFg");
 client2.login("ODAyOTA0NzA0Nzc0NDM4OTMy.YA2BjQ._p4CPQ4fcXcQ8ymZBecyqXPKiKE");
 client3.login("ODAyOTA1MTA5NTgyNTc3NzE0.YA2EPg.IzqvAA3_8S5647QKXM-DJjw6X9A");
-client4.login("");
-client5.login("");
-client6.login("");
-client7.login("");
-client8.login("");
+client4.login("ODMyNDM1MjA0NDA0MjgxNDE4.YHjwXg.mfCtlvgCEIXQQygeRTLqcwRoF54");
+client5.login("ODMyNDIzNDg5ODY0NTk3NTI0.YHjucQ.bW4ZmphJpo8w9DcoxtONGo65rBc");
+client6.login("ODMyNDIwNjM4MjUzMTIxNTg2.YHjk5w.K8jkKy78-K-NmrNS2vhcFatuexg");
+client7.login("ODMyNDE5MjU5NzQ0MjU2MDEw.YHjieA.IDUtnwAtM7DS5wDTMb_upyqJXHM");
+client8.login("ODMyNDAzNDQ3MDk3MTk2NTc0.YHjgbw.tGo20LjcjLSkPo0f22IRU80iirI");
 client9.login("");
 client10.login("");
 client11.login("");
